@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 # Huan Chen's Homework #5 (to https://github.com/howardhsieh/aiot_hw5.git)
+=======
+# Huan Chen's New Homework #5 (in huanchen1107/aiot_hw5)
+>>>>>>> 954edd1a7244b6f0eed8d8ecdb2afdccc338a2ce
 
 ## Lecture 14: IoT Flask Web (github, vs code)
 
-### Step 1 : Development Environment Setup
+### Step 1 : Development Environment Setup in aiot_hw5
 1. Please install vs code, register github, install git for windows
 2. (check-point 1) github create a new repository (aiot0524)
 3. go to vs code clone this repository (choose new branch) 
